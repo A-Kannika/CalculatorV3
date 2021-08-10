@@ -1,5 +1,7 @@
 # Multi-Function Calculator Program version 3 
 Multi-Function Calculator version 3 is a project for Programming Practicum course | TCSS 305 | @the University of Washington Tacoma
+
+<br/>
 Multi-Function Calculator version 3 uses Object-Oriented Design, MVC Architectural Pattern, Abstract Data Types, and GUI.
 
 ## Description
